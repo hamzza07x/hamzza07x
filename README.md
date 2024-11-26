@@ -1,4 +1,4 @@
-#Assalam o Alaikum!
+# Assalam o Alaikum! 🌟
 # Hi there! 👋 I'm Muhammad Hamza 
 
 ## 👨‍💻 About Me
@@ -42,3 +42,6 @@
 - 📧 [Email](mailto:p230577@cfd.nu.edu.pk)
 - 📧 [Email](mailto:p230577@pwr.nu.edu.pk)
 - 🧑‍💻 [GitHub](https://github.com/hamzza07x)
+
+- ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=hamzza07x&show_icons=true&theme=radical)
+- ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=hamzza07x&theme=radical)
