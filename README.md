@@ -45,8 +45,3 @@
   </a> 
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hamzza07x&show_icons=true&locale=en&layout=compact" alt="hamzza07x" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hamzza07x&show_icons=true&locale=en" alt="hamzza07x" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hamzza07x&" alt="hamzza07x" /></p>
