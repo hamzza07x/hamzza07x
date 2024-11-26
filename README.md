@@ -4,7 +4,6 @@
 - 🎓 Pursuing a **Bachelor's in Computer Science** at [FAST NUCES, Pakistan](https://www.nu.edu.pk/)
 - 🌱 I’m currently learning **C++, Python, and Web Development**
 - 💻 Passionate about coding, problem-solving, and building impactful software.
-- 🚀 Exploring projects in **Hotel Management**, **Voting Systems**, and **Game Development**.
 
 ## 🛠️ Skills & Tools
 ### Programming Languages
