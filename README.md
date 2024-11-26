@@ -23,8 +23,8 @@
 
 ### Interests
 - 🔐 Cybersecurity
-- 🎮 Game Development (Pac-Man clone, anyone? 😄)
-- 📊 Data Analysis with Python
+- 🎮 Game Development 
+- 📊 Data Analysis
 
 ## 🌟 Projects
 ### Hotel Management System 🏨
