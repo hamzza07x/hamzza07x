@@ -1,3 +1,4 @@
+# Assalam o Alaikum
 [![MasterHead](https://t3.ftcdn.net/jpg/01/94/01/00/360_F_194010093_9tC5JNVsiEOlVDs2F5Y6d0paYrdWTdbT.jpg)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Muhammad Hamza</h1>
 <h3 align="center">A passionate self-learned programmer from Pakistan.</h3>
