@@ -4,15 +4,8 @@
 <h3 align="center">A passionate self-learned programmer from Pakistan.</h3>
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/4d9f5ecceb711eec6e2018f38a5677dc657c9738d4a65ba3b928c41c0a45b439/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
 
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=hamzza07x&label=Profile%20views&color=0e75b6&style=flat" alt="hamzza07x" /> 
-</p>
-
-<p align="left"> 
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=hamzza07x" alt="hamzza07x" />
-  </a> 
-</p>
+- ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=hamzza07x&show_icons=true&theme=radical)
+- ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=hamzza07x&theme=radical)
 
 - 📫 How to reach me **p230577@cfd.nu.edu.pk**
 
