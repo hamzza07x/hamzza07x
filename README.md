@@ -32,10 +32,6 @@
 - Features: Registration/Login, Room Booking, Cost Calculation.
 - [View Project](https://github.com/YourUsername/Hotel-Management-System)
 
-### Voting System 🗳️
-- An electronic voting system built in **Python**, ensuring secure and easy voting.
-- [View Project](https://github.com/YourUsername/Electronic-Voting-System)
-
 ### Pac-Man Game 🕹️
 - A **C++ game project** implementing OOP concepts.
 - Features polymorphic ghosts with chase, scatter, and frightened modes.
