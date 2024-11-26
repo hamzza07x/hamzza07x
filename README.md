@@ -1,4 +1,4 @@
-[![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKohhe6zGdyl4TAOSb9gQWMARO-bjgSz1GEw&s)](https://rishavchanda.io)
+[![MasterHead](https://t3.ftcdn.net/jpg/01/94/01/00/360_F_194010093_9tC5JNVsiEOlVDs2F5Y6d0paYrdWTdbT.jpg)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Muhammad Hamza</h1>
 <h3 align="center">A passionate self-learned programmer from Pakistan.</h3>
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/4d9f5ecceb711eec6e2018f38a5677dc657c9738d4a65ba3b928c41c0a45b439/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
@@ -27,7 +27,7 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
   </a>
   <a href="https://www.fiverr.com/ham_zza" target="blank">
-    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/3/34/Fiverr_Logo.svg" alt="Fiverr" height="30" width="40" />
+    <img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3Cpx0-4GyPNTT06JUFrqz9tGBaPOZPfc7gw&s" alt="Fiverr" height="30" width="40" />
   </a>
 </p>
 
