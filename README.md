@@ -32,18 +32,13 @@
 - Features: Registration/Login, Room Booking, Cost Calculation.
 - [View Project](https://github.com/YourUsername/Hotel-Management-System)
 
-### Pac-Man Game 🕹️
-- A **C++ game project** implementing OOP concepts.
-- Features polymorphic ghosts with chase, scatter, and frightened modes.
-- [View Project](https://github.com/YourUsername/Pac-Man-Clone)
+### Next-Word Predictor AI 🤖
+- A **Python-based AI project** that predicts the next word based on given input text.
+- Utilizes Natural Language Processing techniques.
+- [View Project](https://github.com/YourUsername/Next-Word-Predictor)
 
 ## 🌍 Connect with Me
 - 💼 [LinkedIn](https://www.linkedin.com/in/muhammad-hamza-b254a0292?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 - 📧 [Email](mailto:p230577@cfd.nu.edu.pk)
 - 📧 [Email](mailto:p230577@pwr.nu.edu.pk)
 - 🧑‍💻 [GitHub](https://github.com/hamzza07x)
-
-
-
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical)
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=YourUsername&theme=radical)
