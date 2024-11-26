@@ -30,12 +30,12 @@
 ### Hotel Management System 🏨
 - A file-based **C program** to manage hotel bookings.
 - Features: Registration/Login, Room Booking, Cost Calculation.
-- [View Project](https://github.com/YourUsername/Hotel-Management-System)
+- [View Project](https://github.com/hamzza07x/Project-Hotel-management-system)
 
 ### Next-Word Predictor AI 🤖
 - A **Python-based AI project** that predicts the next word based on given input text.
 - Utilizes Natural Language Processing techniques.
-- [View Project](https://github.com/YourUsername/Next-Word-Predictor)
+- [View Project](https://github.com/hamzza07x/Next-Word-Predictor-AI)
 
 ## 🌍 Connect with Me
 - 💼 [LinkedIn](https://www.linkedin.com/in/muhammad-hamza-b254a0292?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
