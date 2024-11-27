@@ -46,13 +46,3 @@
   </a> 
 </p>
 
-## 🌟 Projects
-### Hotel Management System 🏨
-- A file-based **C program** to manage hotel bookings.
-- Features: Registration/Login, Room Booking, Cost Calculation.
-- [View Project](https://github.com/hamzza07x/Project-Hotel-management-system)
-
-### Next-Word Predictor AI 🤖
-- A **Python-based AI project** that predicts the next word based on given input text.
-- Utilizes Natural Language Processing techniques.
-- [View Project](https://github.com/hamzza07x/Next-Word-Predictor-AI)
