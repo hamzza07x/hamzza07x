@@ -25,6 +25,10 @@
     <img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3Cpx0-4GyPNTT06JUFrqz9tGBaPOZPfc7gw&s" alt="Fiverr" height="30" width="40" />
   </a>
 </p>
+<a href="https://www.instagram.com/9h0st41/profilecard/?igsh=MXR4bjU5eWlva3ByZg==" target="blank">
+    <img align="center" src="https://i0.wp.com/www.piercingmetal.com/wp-content/uploads/2017/12/Logo-Instagram2-e1512873623696.jpg?fit=350%2C350&ssl=1" alt="Instagram" height="30" width="40" />
+  </a>
+</p>
 
 <h3 align="left">Interests:</h3>
 <ul>
