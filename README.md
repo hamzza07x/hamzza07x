@@ -1,4 +1,4 @@
-# Assalam o Alaikum
+### Assalam o Alaikum
 
 [![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/fs/54b6c068097599.5b50bca476b9b.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Muhammad Hamza</h1>
@@ -24,9 +24,8 @@
   <a href="https://www.fiverr.com/ham_zza" target="blank">
     <img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3Cpx0-4GyPNTT06JUFrqz9tGBaPOZPfc7gw&s" alt="Fiverr" height="30" width="40" />
   </a>
-</p>
-<a href="https://www.instagram.com/9h0st41/profilecard/?igsh=MXR4bjU5eWlva3ByZg==" target="blank">
-    <img align="center" src="https://i0.wp.com/www.piercingmetal.com/wp-content/uploads/2017/12/Logo-Instagram2-e1512873623696.jpg?fit=350%2C350&ssl=1" alt="Instagram" height="30" width="40" />
+  <a href="https://www.instagram.com/9h0st41" target="blank">
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/9/95/Instagram_logo_2022.svg" alt="Instagram" height="30" width="40" />
   </a>
 </p>
 
@@ -49,4 +48,3 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/> 
   </a> 
 </p>
-
