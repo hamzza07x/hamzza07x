@@ -41,8 +41,8 @@
   <a href="https://www.leetcode.com/hamzza07x" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
   </a>
- <a href="https://www.fiverr.com/ham_zza" target="_blank">
-  <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Fiverr_Logo.svg" alt="Fiverr" height="30" width="40" />
+<a href="https://www.fiverr.com/ham_zza" target="_blank">
+  <img align="center" src="https://cdn.worldvectorlogo.com/logos/fiverr-1.svg" alt="Fiverr" height="30" width="40" />
 </a>
   <a href="https://www.instagram.com/9h0st41" target="_blank">
     <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/9/95/Instagram_logo_2022.svg" alt="Instagram" height="30" width="40" />
