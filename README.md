@@ -31,8 +31,8 @@
 
 <h3 align="left">Interests:</h3>
 <ul>
-  <li>Web Development</li>
   <li>Game Development</li>
+  <li>Web Development</li>
   <li>Data Analysis</li>
 </ul>
 
