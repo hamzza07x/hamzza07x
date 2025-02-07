@@ -50,4 +50,7 @@
    <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
     <img src="https://w7.pngwing.com/pngs/512/824/png-transparent-visual-studio-code-hd-logo-thumbnail.png" alt="VScode" width="40" height="40"/> 
   </a> 
+   <a href="https://visualstudio.microsoft.com/vs/community/" target="_blank" rel="noreferrer">
+    <img src="https://w7.pngwing.com/pngs/249/874/png-transparent-microsoft-visual-studio-express-integrated-development-environment-computer-software-microsoft-purple-angle-text-thumbnail.png" alt="Visual Studio" width="40" height="40"/> 
+  </a> 
 </p>
