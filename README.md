@@ -11,22 +11,34 @@
 ## 📊 GitHub Stats  
 
 <p align="center">
+  <!-- GitHub Profile Summary Card -->
   <a href="https://github.com/hamzza07x">
-    <img height="165" src="https://github-readme-stats.vercel.app/api?username=hamzza07x&show_icons=true&theme=radical&count_private=true&include_all_commits=true"/>
-  </a>
-  <a href="https://github.com/hamzza07x">
-    <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=hamzza07x&theme=radical"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hamzza07x&theme=radical" alt="GitHub Profile Summary"/>
   </a>
 </p>
 
 <p align="center">
+  <!-- GitHub Stats -->
   <a href="https://github.com/hamzza07x">
-    <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamzza07x&layout=compact&theme=radical"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=hamzza07x&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
+  </a>
+
+  <!-- GitHub Streak -->
+  <a href="https://github.com/hamzza07x">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=hamzza07x&theme=radical" alt="GitHub Streak"/>
   </a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=hamzza07x&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <!-- Most Used Languages -->
+  <a href="https://github.com/hamzza07x">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamzza07x&layout=compact&theme=radical" alt="Top Languages"/>
+  </a>
+</p>
+
+<p align="center">
+  <!-- Profile Views Counter -->
+  <img src="https://komarev.com/ghpvc/?username=hamzza07x&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
 </p>
 
 
