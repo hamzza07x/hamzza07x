@@ -53,4 +53,7 @@
    <a href="https://visualstudio.microsoft.com/vs/community/" target="_blank" rel="noreferrer">
     <img src="https://w7.pngwing.com/pngs/249/874/png-transparent-microsoft-visual-studio-express-integrated-development-environment-computer-software-microsoft-purple-angle-text-thumbnail.png" alt="Visual Studio" width="40" height="40"/> 
   </a> 
+   <a href="https://www.jetbrains.com/pycharm/" target="_blank" rel="noreferrer">
+    <img src="https://w7.pngwing.com/pngs/744/475/png-transparent-intellij-pycharm-macos-bigsur-icon-thumbnail.png" alt="Pycharm" width="40" height="40"/> 
+  </a> 
 </p>
