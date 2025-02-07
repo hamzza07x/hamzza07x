@@ -88,6 +88,3 @@
 ---
 
 ### 🎯 **Thank You for Visiting My Profile!**
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=hamzza07x&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
