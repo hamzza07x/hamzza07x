@@ -7,21 +7,28 @@
 
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/4d9f5ecceb711eec6e2018f38a5677dc657c9738d4a65ba3b928c41c0a45b439/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
 
-- 🔭 I’m currently working on **Game Development with Unreal Engine**
-- 🌱 I’m learning **Data Structures & Algorithms, Unreal Engine, and Web Development**
-- 💬 Ask me about **C++, Python, and Game Development**
-- 📫 How to reach me: **p230577@cfd.nu.edu.pk**
-- ⚡ Fun fact: **I love problem-solving and competitive programming!**
 
----
+## 📊 GitHub Stats  
 
-## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hamzza07x&show_icons=true&theme=radical" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hamzza07x&theme=radical" alt="GitHub Streak" height="165"/>
+  <a href="https://github.com/hamzza07x">
+    <img height="165" src="https://github-readme-stats.vercel.app/api?username=hamzza07x&show_icons=true&theme=radical&count_private=true&include_all_commits=true"/>
+  </a>
+  <a href="https://github.com/hamzza07x">
+    <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=hamzza07x&theme=radical"/>
+  </a>
 </p>
 
----
+<p align="center">
+  <a href="https://github.com/hamzza07x">
+    <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamzza07x&layout=compact&theme=radical"/>
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=hamzza07x&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
+
 
 ## 🌐 Connect with Me  
 <p align="left">
@@ -35,8 +42,8 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
   </a>
   <a href="https://www.fiverr.com/ham_zza" target="_blank">
-    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/3/35/Fiverr_Logo_9.png" alt="Fiverr" height="30" width="40" />
-  </a>
+  <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/5/59/Fiverr_Logo.svg" alt="Fiverr" height="30" width="40" />
+</a>
   <a href="https://www.instagram.com/9h0st41" target="_blank">
     <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/9/95/Instagram_logo_2022.svg" alt="Instagram" height="30" width="40" />
   </a>
