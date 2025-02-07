@@ -47,13 +47,13 @@
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/> 
   </a> 
-   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
-    <img src="https://w7.pngwing.com/pngs/512/824/png-transparent-visual-studio-code-hd-logo-thumbnail.png" alt="VScode" width="40" height="40"/> 
+  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/> 
   </a> 
-   <a href="https://visualstudio.microsoft.com/vs/community/" target="_blank" rel="noreferrer">
-    <img src="https://w7.pngwing.com/pngs/249/874/png-transparent-microsoft-visual-studio-express-integrated-development-environment-computer-software-microsoft-purple-angle-text-thumbnail.png" alt="Visual Studio" width="40" height="40"/> 
+  <a href="https://visualstudio.microsoft.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" alt="Visual Studio" width="40" height="40"/> 
   </a> 
-   <a href="https://www.jetbrains.com/pycharm/" target="_blank" rel="noreferrer">
-    <img src="https://w7.pngwing.com/pngs/744/475/png-transparent-intellij-pycharm-macos-bigsur-icon-thumbnail.png" alt="Pycharm" width="40" height="40"/> 
+  <a href="https://www.jetbrains.com/pycharm/" target="_blank" rel="noreferrer">
+    <img src="https://resources.jetbrains.com/storage/products/pycharm/img/meta/pycharm_logo_300x300.png" alt="PyCharm" width="40" height="40"/> 
   </a> 
 </p>
