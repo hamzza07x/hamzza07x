@@ -58,7 +58,7 @@
   <img align="left" src="https://img.shields.io/badge/Data%20Analysis-%2312100E.svg?style=for-the-badge&logo=python&logoColor=white"/>
 </p>
 
-
+<hr style="border: 1px solid #ff6600;">
 ---
 
 ## 🛠️ Languages and Tools
