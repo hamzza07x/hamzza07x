@@ -54,8 +54,8 @@
 ## 🚀 Interests
 <p align="left">
   <img src="https://img.shields.io/badge/Game%20Development-%2300599C.svg?style=for-the-badge&logo=unrealengine&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Web%20Development-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Data%20Analysis-%2312100E.svg?style=for-the-badge&logo=python&logoColor=white"/>
+  <img align="left"> src="https://img.shields.io/badge/Web%20Development-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img align="left"> src="https://img.shields.io/badge/Data%20Analysis-%2312100E.svg?style=for-the-badge&logo=python&logoColor=white"/>
 </p>
 
 ---
@@ -80,9 +80,6 @@
   <a href="https://www.jetbrains.com/pycharm/" target="_blank">
     <img src="https://resources.jetbrains.com/storage/products/pycharm/img/meta/pycharm_logo_300x300.png" alt="PyCharm" width="40" height="40"/> 
   </a> 
-  <a href="https://www.unrealengine.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unrealengine/unrealengine-original.svg" alt="Unreal Engine" width="40" height="40"/> 
-  </a>
 </p>
 
 ---
