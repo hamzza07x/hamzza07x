@@ -54,11 +54,10 @@
 ## 🚀 Interests
 <p align="left">
   <img src="https://img.shields.io/badge/Game%20Development-%2300599C.svg?style=for-the-badge&logo=unrealengine&logoColor=white"/>
-  <img align="left" src="https://img.shields.io/badge/Web%20Development-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img align="left" src="https://img.shields.io/badge/Data%20Analysis-%2312100E.svg?style=for-the-badge&logo=python&logoColor=white"/>
+  <img align="right" src="https://img.shields.io/badge/Web%20Development-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img align="center" src="https://img.shields.io/badge/Data%20Analysis-%2312100E.svg?style=for-the-badge&logo=python&logoColor=white"/>
 </p>
 
-<hr style="border: 1px solid #ff6600;">
 ---
 
 ## 🛠️ Languages and Tools
