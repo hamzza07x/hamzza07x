@@ -72,7 +72,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/> 
   </a> 
   <a href="https://www.w3schools.com/html/default.asp" target="_blank">
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEei9ytqKspQJl9TmIZAHoK_Yn6pBN6Jaobg&s" alt="Python" width="40" height="40"/> 
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAvVaUQLt0pIFV8I2mutLM_Bz3pc-c7oWqOA&s" alt="Python" width="40" height="40"/> 
   </a> 
   <a href="https://code.visualstudio.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/> 
