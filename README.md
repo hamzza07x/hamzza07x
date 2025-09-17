@@ -1,115 +1,67 @@
-### Assalam o Alaikum  
+### Assalam o Alaikum 👋  
 
 [![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/fs/54b6c068097599.5b50bca476b9b.gif)](https://hamzza07x.io)
 
 <h1 align="center">Hi 👋, I'm Muhammad Hamza</h1>
-<h3 align="center">A passionate self-taught programmer.</h3>
+<h3 align="center">A passionate self-taught programmer</h3>
 
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/4d9f5ecceb711eec6e2018f38a5677dc657c9738d4a65ba3b928c41c0a45b439/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
+---
 
+## 🚀 About Me  
+- 🔭 I’m currently working on **C++ DSA Projects & Web Development**  
+- 🌱 I’m currently learning **Unreal Engine (C++), Data Analysis & Web Dev**  
+- 💬 Ask me about **C, C++, Python, Web Development**  
+- ⚡ Fun fact: **I love solving coding problems and building real-world projects**  
 
-## 📊 GitHub Stats  
-
-<p align="center">
-  <!-- GitHub Profile Summary Card -->
-  <a href="https://github.com/hamzza07x">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hamzza07x&theme=radical" alt="GitHub Profile Summary"/>
-  </a>
-</p>
-
-<p align="center">
-  <!-- Most Used Languages -->
-  <a href="https://github.com/hamzza07x">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamzza07x&layout=compact&theme=radical" alt="Top Languages"/>
-  </a>
-</p>
-
-<p align="center">
-  <!-- Profile Views Counter -->
-  <img src="https://komarev.com/ghpvc/?username=hamzza07x&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
-</p>
-
+---
 
 ## 🌐 Connect with Me  
 <p align="left">
-  <a href="https://www.linkedin.com/in/muhammad-hamza-b254a0292" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-  <a href="https://www.facebook.com/hafmtmzi?mibextid=zbwkwl" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
-  </a>
-  <a href="https://www.leetcode.com/hamzza07x" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
-  </a>
-<a href="https://www.fiverr.com/ham_zza" target="_blank">
-  <img align="center" src="https://freelogopng.com/images/all_img/1656738037fiverr-icon-png.png" alt="Fiverr" height="30" width="40" />
-</a>
-  <a href="https://www.instagram.com/9h0st41" target="_blank">
-    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/9/95/Instagram_logo_2022.svg" alt="Instagram" height="30" width="40" />
-  </a>
+<a href="https://linkedin.com/in/hamzza07x" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/linkedin.png" alt="linkedin"/></a>
+<a href="https://instagram.com/hamzza07x" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/instagram-new.png" alt="instagram"/></a>
+<a href="https://fb.com/hamzza07x" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/facebook.png" alt="facebook"/></a>
+<a href="https://leetcode.com/hamzza07x" target="blank"><img align="center" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png" alt="leetcode"/></a>
 </p>
 
 ---
 
-## 🚀 Interests
-<p align="left">
-  <img src="https://img.shields.io/badge/Game%20Development-%2300599C.svg?style=for-the-badge&logo=unrealengine&logoColor=white"/>
-  <img  src="https://img.shields.io/badge/Web%20Development-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img  src="https://img.shields.io/badge/Data%20Analysis-%2312100E.svg?style=for-the-badge&logo=python&logoColor=white"/>
-</p>
+## ⚡ GitHub Stats  
 
----
-## 🛠️ Languages and Tools
-<p align="left"> 
-  <a href="https://www.cprogramming.com/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" alt="C" width="40" height="40"/> 
-  </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/> 
-  </a>
-  <a href="https://www.python.org" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/> 
-  </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/> 
-  </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/> 
-  </a> 
-  <a href="https://getbootstrap.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  </a>
-  <a href="https://jquery.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg" alt="jQuery" width="40" height="40"/>
-  </a>
-  <a href="https://www.php.net/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/>
-  </a>
-  <a href="https://code.visualstudio.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/> 
-  </a> 
-  <a href="https://visualstudio.microsoft.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" alt="Visual Studio" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.jetbrains.com/pycharm/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pycharm/pycharm-original.svg" alt="PyCharm" width="40" height="40"/> 
-  </a> 
-</p>
-
----
----
-
-## 📂 Portfolio  
 <p align="center">
-  <a href="https://hamzza07x.github.io/hamzza07x_portfollio/" target="_blank">
-    <img src="https://img.shields.io/badge/🌐%20Visit%20My%20Portfolio-radical?style=for-the-badge&logo=firefox&logoColor=white&color=ff0055"/>
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=hamzza07x&label=Profile%20views&color=0e75b6&style=flat" alt="hamzza07x" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hamzza07x&show_icons=true&theme=radical" alt="GitHub stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hamzza07x&theme=radical" alt="GitHub streak stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamzza07x&layout=compact&theme=radical" alt="Top languages" />
 </p>
 
 ---
 
+## 🛠️ Languages & Tools  
 
-### 🎯 **Thank You for Visiting My Profile!**
+<p align="left"> 
+  <img src="https://img.icons8.com/color/48/000000/c-programming.png"/> 
+  <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/> 
+  <img src="https://img.icons8.com/color/48/000000/python.png"/> 
+  <img src="https://img.icons8.com/color/48/000000/html-5.png"/> 
+  <img src="https://img.icons8.com/color/48/000000/css3.png"/> 
+  <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> 
+  <img src="https://img.icons8.com/color/48/000000/javascript.png"/> 
+  <img src="https://img.icons8.com/color/48/000000/git.png"/> 
+  <img src="https://img.icons8.com/color/48/000000/github.png"/> 
+  <img src="https://img.icons8.com/color/48/000000/visual-studio.png"/> 
+  <img src="https://img.icons8.com/color/48/000000/pycharm.png"/> 
+  <img src="https://img.icons8.com/color/48/000000/unreal-engine.png"/> 
+</p>
+
+---
+
+✨ **“Code is like humor. When you have to explain it, it’s bad.”** ✨  
