@@ -20,7 +20,8 @@
 <p align="center">
   <!-- Most Used Languages -->
   <a href="https://github.com/hamzza07x">
-    <img src="https://github.com/hamzza07x/hamzza07x/blob/main/metrics.svg" alt="GitHub Metrics" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamzza07x&layout=compact&theme=radical" alt="Top Languages"/>
+  </a>
 </p>
 
 <p align="center">
