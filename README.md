@@ -20,8 +20,7 @@
 <p align="center">
   <!-- Most Used Languages -->
   <a href="https://github.com/hamzza07x">
-    <img src="https://github-readme-stats.vercel.app/api?username=hamzza07x&show_icons=true&theme=radical" />
-  </a>
+    <img src="https://github.com/hamzza07x/hamzza07x/blob/main/metrics.svg" alt="GitHub Metrics" />
 </p>
 
 <p align="center">
