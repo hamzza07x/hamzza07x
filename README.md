@@ -1,112 +1,150 @@
-### Assalam o Alaikum  
+<div align="center">
 
-[![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/fs/54b6c068097599.5b50bca476b9b.gif)](https://hamzza07x.io)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=Muhammad%20Hamza&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=40&desc=Self-Taught%20Programmer%20%7C%20Code%20Architect%20%7C%20Problem%20Solver&descSize=18&descAlignY=60)
 
-<h1 align="center">Hi 👋, I'm Muhammad Hamza</h1>
-<h3 align="center">A passionate self-taught programmer.</h3>
-
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/4d9f5ecceb711eec6e2018f38a5677dc657c9738d4a65ba3b928c41c0a45b439/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
-
-## 📊 GitHub Stats  
-
-<p align="center">
-  <!-- GitHub Profile Summary Card -->
-  <a href="https://github.com/hamzza07x">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hamzza07x&theme=radical" alt="GitHub Profile Summary"/>
-  </a>
-</p>
-
-<p align="center">
-  <!-- Most Used Languages -->
-  <a href="https://github.com/hamzza07x">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamzza07x&layout=compact&theme=radical" alt="Top Languages"/>
-  </a>
-</p>
-
-<p align="center">
-  <!-- Profile Views Counter -->
-  <img src="https://komarev.com/ghpvc/?username=hamzza07x&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
-</p>
-
-## 🌐 Connect with Me  
-<p align="left">
-  <a href="https://www.linkedin.com/in/muhammad-hamza-b254a0292" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-  <a href="https://www.facebook.com/hafmtmzi?mibextid=zbwkwl" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
-  </a>
-  <a href="https://www.leetcode.com/hamzza07x" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
-  </a>
-  <a href="https://www.fiverr.com/ham_zza" target="_blank">
-    <img align="center" src="https://freelogopng.com/images/all_img/1656738037fiverr-icon-png.png" alt="Fiverr" height="30" width="40" />
-  </a>
-  <a href="https://www.instagram.com/9h0st41" target="_blank">
-    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/9/95/Instagram_logo_2022.svg" alt="Instagram" height="30" width="40" />
-  </a>
-</p>
+</div>
 
 ---
 
-## 🚀 Interests
-<p align="left">
-  <img src="https://img.shields.io/badge/Game%20Development-%2300599C.svg?style=for-the-badge&logo=unrealengine&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Web%20Development-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Data%20Analysis-%2312100E.svg?style=for-the-badge&logo=python&logoColor=white"/>
-</p>
+<div align="center">
+  
+### 👨‍💻 Assalam o Alaikum! Welcome to my digital realm
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=const+developer+%3D+%7B;++name%3A+%22Muhammad+Hamza%22%2C;++passion%3A+%22Turning+ideas+into+code%22;%7D%3B)](https://git.io/typing-svg)
+
+</div>
+
+<img align="right" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="Coding GIF">
+
+<div align="left">
+
+```javascript
+class Developer {
+  constructor() {
+    this.name = "Muhammad Hamza";
+    this.role = "Full Stack Developer";
+    this.location = "Pakistan 🇵🇰";
+    this.passion = ["Clean Code", "Innovation", "Problem Solving"];
+    this.currentFocus = "Building scalable web applications";
+  }
+  
+  getSkills() {
+    return {
+      languages: ["C", "C++", "Python", "JavaScript", "PHP"],
+      frontend: ["HTML5", "CSS3", "Bootstrap", "jQuery"],
+      tools: ["VS Code", "PyCharm", "Visual Studio"],
+      interests: ["Game Development", "Web Dev", "Data Analysis"]
+    };
+  }
+}
+```
+
+</div>
+
+<br clear="both"/>
 
 ---
 
-## 🛠️ Languages and Tools
-<p align="left"> 
-  <a href="https://www.cprogramming.com/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" alt="C" width="40" height="40"/> 
-  </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/> 
-  </a>
-  <a href="https://www.python.org" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/> 
-  </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/> 
-  </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/> 
-  </a> 
-  <a href="https://getbootstrap.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  </a>
-  <a href="https://jquery.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg" alt="jQuery" width="40" height="40"/>
-  </a>
-  <a href="https://www.php.net/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/>
-  </a>
-  <a href="https://code.visualstudio.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/> 
-  </a> 
-  <a href="https://visualstudio.microsoft.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" alt="Visual Studio" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.jetbrains.com/pycharm/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pycharm/pycharm-original.svg" alt="PyCharm" width="40" height="40"/> 
-  </a> 
-</p>
+<div align="center">
+
+## 📊 **Performance Analytics**
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=hamzza07x&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&ring_color=00D9FF"/>
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=hamzza07x&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF"/>
+
+<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamzza07x&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF"/>
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=hamzza07x&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&hide_border=true)
+
+<img src="https://komarev.com/ghpvc/?username=hamzza07x&style=for-the-badge&color=00D9FF&labelColor=0D1117" alt="Profile Views"/>
+
+</div>
 
 ---
 
-## 📂 Portfolio  
-<p align="center">
-  <a href="https://hamzza07x.github.io/hamzza07x_portfollio/" target="_blank">
-    <img src="https://img.shields.io/badge/🌐%20Visit%20My%20Portfolio-radical?style=for-the-badge&logo=firefox&logoColor=white&color=ff0055"/>
-  </a>
+<div align="center">
+
+## 🛠️ **Tech Arsenal**
+
+### Programming Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,javascript,php" alt="Programming Languages"/>
 </p>
+
+### Frontend Technologies  
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,jquery" alt="Frontend"/>
+</p>
+
+### Development Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=vscode,visualstudio,pycharm,git,github" alt="Tools"/>
+</p>
+
+</div>
 
 ---
 
-### 🎯 **Thank You for Visiting My Profile!**
+<div align="center">
+
+## 🚀 **Areas of Expertise**
+
+<table>
+<tr>
+  <td align="center" width="200">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original.svg" width="50"/>
+    <br><strong>Game Development</strong>
+    <br><sub>Creating immersive experiences</sub>
+  </td>
+  <td align="center" width="200">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50"/>
+    <br><strong>Web Development</strong>
+    <br><sub>Building modern web solutions</sub>
+  </td>
+  <td align="center" width="200">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50"/>
+    <br><strong>Data Analysis</strong>
+    <br><sub>Extracting insights from data</sub>
+  </td>
+</tr>
+</table>
+
+</div>
+
+---
+
+<div align="center">
+
+## 🌐 **Connect & Collaborate**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-hamza-b254a0292)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/hafmtmzi?mibextid=zbwkwl)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://www.leetcode.com/hamzza07x)
+[![Fiverr](https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white)](https://www.fiverr.com/ham_zza)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/9h0st41)
+
+</div>
+
+---
+
+<div align="center">
+
+## 🎯 **Portfolio Showcase**
+
+<a href="https://hamzza07x.github.io/hamzza07x_portfollio/" target="_blank">
+<img src="https://img.shields.io/badge/🌟_Explore_My_Work-00D9FF?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0D1117"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### 💭 *"Code is like humor. When you have to explain it, it's bad."* – Cory House
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
+
+**⭐ From [hamzza07x](https://github.com/hamzza07x) with ❤️**
+
+</div>
