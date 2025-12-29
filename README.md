@@ -47,13 +47,6 @@ class Developer {
 
 <div align="center">
 
-## 📊 **Performance Analytics**
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=hamzza07x&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&ring_color=00D9FF"/>
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=hamzza07x&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF"/>
-
-<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamzza07x&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF"/>
-
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=hamzza07x&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&hide_border=true)
 
 <img src="https://komarev.com/ghpvc/?username=hamzza07x&style=for-the-badge&color=00D9FF&labelColor=0D1117" alt="Profile Views"/>
