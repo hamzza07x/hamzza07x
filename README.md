@@ -134,6 +134,22 @@ class Developer {
 
 <div align="center">
 
+## 📬 **Contact Me**
+
+| Platform | Link |
+|----------|------|
+| 📸 Instagram | [@hamzza07x](https://www.instagram.com/hamzza07x/) |
+| 📘 Facebook | [hamzza07x](https://www.facebook.com/hamzza07x/) |
+| 💼 LinkedIn | [muhammad-h-b254a0292](https://www.linkedin.com/in/muhammad-h-b254a0292) |
+| 🧩 LeetCode | [hamzza07x](https://leetcode.com/u/hamzza07x/) |
+| 📧 Email | [hamzza07xpro@gmail.com](mailto:hamzza07xpro@gmail.com) |
+
+</div>
+
+---
+
+<div align="center">
+
 ### 💭 *"Code is like humor. When you have to explain it, it's bad."* – Cory House
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
