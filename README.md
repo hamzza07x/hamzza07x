@@ -106,37 +106,13 @@ class MuhammadHamza {
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=hamzza07x&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=ffffff&count_private=true"/>
 
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=hamzza07x&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF"/>
+<img width="49%" src="https://streak-stats.demolab.com/?user=hamzza07x&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF"/>
 
 <br/><br/>
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamzza07x&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=ffffff&langs_count=8"/>
 
 <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=hamzza07x&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&hide_border=true"/>
-
-</div>
-
----
-
-<div align="center">
-
-# 🚀 Featured Projects
-
-<br/>
-
-<a href="https://github.com/hamzza07x/google-drive-filesystem">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=hamzza07x&repo=google-drive-filesystem&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=ffffff"/>
-</a>
-
-<a href="https://github.com/hamzza07x/advanced-contacts-book">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=hamzza07x&repo=advanced-contacts-book&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=ffffff"/>
-</a>
-
-<br/><br/>
-
-<a href="https://github.com/hamzza07x/netflix-clone">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=hamzza07x&repo=netflix-clone&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=ffffff"/>
-</a>
 
 </div>
 
@@ -179,20 +155,6 @@ Creating real-world portfolio and client-focused solutions.
 </td>
 </tr>
 </table>
-
-</div>
-
----
-
-<div align="center">
-
-# 🐍 Contribution Snake
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hamzza07x/hamzza07x/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hamzza07x/hamzza07x/output/github-contribution-grid-snake.svg"/>
-  <img alt="github-snake" src="https://raw.githubusercontent.com/hamzza07x/hamzza07x/output/github-contribution-grid-snake-dark.svg"/>
-</picture>
 
 </div>
 
