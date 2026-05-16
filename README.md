@@ -196,7 +196,7 @@ Creating real-world portfolio and client-focused solutions.
 <img src="https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white"/>
 </a>
 
-<a href="https://www.instagram.com/9h0st41">
+<a href="https://www.instagram.com/hamzza07x">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
