@@ -180,7 +180,7 @@ Creating real-world portfolio and client-focused solutions.
 
 # 🌐 Connect With Me
 
-<a href="https://www.linkedin.com/in/muhammad-hamza-b254a0292">
+<a href="https://www.linkedin.com/in/muhammad-h-b254a0292/">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
