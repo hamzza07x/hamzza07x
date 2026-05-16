@@ -90,56 +90,53 @@ class MuhammadHamza {
 
 <div align="center">
 
+# 🏆 GitHub Trophies
+
+<img width="100%" src="https://github-profile-trophy.vercel.app/?username=hamzza07x&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7"/>
+
+</div>
+
+---
+
+<div align="center">
+
+# 📊 GitHub Stats
+
+<br/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=hamzza07x&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=ffffff&count_private=true"/>
+
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=hamzza07x&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF"/>
+
+<br/><br/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamzza07x&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=ffffff&langs_count=8"/>
+
+<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=hamzza07x&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&hide_border=true"/>
+
+</div>
+
+---
+
+<div align="center">
+
 # 🚀 Featured Projects
 
-<table>
-<tr>
-<td width="33%" align="center">
+<br/>
 
-### 📁 Google Drive File System
+<a href="https://github.com/hamzza07x/google-drive-filesystem">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=hamzza07x&repo=google-drive-filesystem&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=ffffff"/>
+</a>
 
-Advanced console-based file system simulation using:
+<a href="https://github.com/hamzza07x/advanced-contacts-book">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=hamzza07x&repo=advanced-contacts-book&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=ffffff"/>
+</a>
 
-🌲 Trees
-🗂️ Hash Tables
-📊 Graphs
-📌 Queues & Stacks
+<br/><br/>
 
-Built with strong DSA concepts and system-level logic.
-
-</td>
-
-<td width="33%" align="center">
-
-### 📇 Advanced Contacts Book
-
-Object-oriented contact manager built in C++.
-
-✔️ Inheritance
-✔️ Polymorphism
-✔️ Templates
-✔️ File Handling
-
-Focused on clean architecture and reusable design.
-
-</td>
-
-<td width="33%" align="center">
-
-### 🎬 Netflix Clone
-
-Modern responsive frontend inspired by Netflix UI.
-
-✨ Responsive Design
-✨ Clean Layouts
-✨ UI Components
-✨ Better UX Structure
-
-Focused on frontend development and design consistency.
-
-</td>
-</tr>
-</table>
+<a href="https://github.com/hamzza07x/netflix-clone">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=hamzza07x&repo=netflix-clone&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=ffffff"/>
+</a>
 
 </div>
 
@@ -189,9 +186,23 @@ Creating real-world portfolio and client-focused solutions.
 
 <div align="center">
 
-# 📈 GitHub Activity
+# 🐍 Contribution Snake
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=hamzza07x&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&hide_border=true"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hamzza07x/hamzza07x/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hamzza07x/hamzza07x/output/github-contribution-grid-snake.svg"/>
+  <img alt="github-snake" src="https://raw.githubusercontent.com/hamzza07x/hamzza07x/output/github-contribution-grid-snake-dark.svg"/>
+</picture>
+
+</div>
+
+---
+
+<div align="center">
+
+# 💬 Dev Quote
+
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 </div>
 
@@ -226,9 +237,7 @@ Creating real-world portfolio and client-focused solutions.
 # 🎯 Portfolio
 
 <a href="https://hamzza07x.github.io/hamzza07x_portfollio/" target="_blank">
-
 <img src="https://img.shields.io/badge/Explore%20My%20Work-58A6FF?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0D1117"/>
-
 </a>
 
 <br/><br/>
