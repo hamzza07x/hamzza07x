@@ -20,7 +20,9 @@
 
 ---
 
-<img align="right" alt="Coding" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+<table>
+<tr>
+<td valign="top" width="60%">
 
 ```javascript
 class MuhammadHamza {
@@ -49,18 +51,15 @@ class MuhammadHamza {
         "C", "C++", "Python",
         "JavaScript", "PHP"
       ],
-
       frontend: [
         "HTML5", "CSS3",
         "Bootstrap", "jQuery"
       ],
-
       tools: [
         "Git", "GitHub",
         "VS Code", "PyCharm",
         "Visual Studio"
       ],
-
       learning: [
         "React",
         "Node.js",
@@ -72,7 +71,14 @@ class MuhammadHamza {
 }
 ```
 
-<br clear="both"/>
+</td>
+<td valign="middle" align="center" width="40%">
+
+<img alt="Coding" width="100%" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+
+</td>
+</tr>
+</table>
 
 ---
 
