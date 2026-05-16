@@ -1,143 +1,108 @@
-<div align="center">
+# Muhammad Hamza
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=Muhammad%20Hamza&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=40&desc=Self-Taught%20Programmer%20%7C%20Code%20Architect%20%7C%20Problem%20Solver&descSize=18&descAlignY=60)
+Self-taught full stack developer from Pakistan focused on building modern web applications, software systems, and AI-powered tools.
 
-</div>
-
----
-
-<div align="center">
-  
-### 👨‍💻 Assalam o Alaikum! Welcome to my digital realm
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=const+developer+%3D+%7B;++name%3A+%22Muhammad+Hamza%22%2C;++passion%3A+%22Turning+ideas+into+code%22;%7D%3B)](https://git.io/typing-svg)
-
-</div>
-
-<img align="right" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="Coding GIF">
-
-<div align="left">
-
-```javascript
-class Developer {
-  constructor() {
-    this.name = "Muhammad Hamza";
-    this.role = "Full Stack Developer";
-    this.location = "Pakistan 🇵🇰";
-    this.passion = ["Clean Code", "Innovation", "Problem Solving"];
-    this.currentFocus = "Building scalable web applications";
-  }
-  
-  getSkills() {
-    return {
-      languages: ["C", "C++", "Python", "JavaScript", "PHP"],
-      frontend: ["HTML5", "CSS3", "Bootstrap", "jQuery"],
-      tools: ["VS Code", "PyCharm", "Visual Studio"],
-      interests: ["Game Development", "Web Dev", "Data Analysis"]
-    };
-  }
-}
-```
-
-</div>
-
-<br clear="both"/>
+I enjoy turning ideas into real products — from backend logic and frontend interfaces to automation and intelligent systems.
 
 ---
 
-<div align="center">
+## What I Do
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=hamzza07x&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&hide_border=true)
-
-<img src="https://komarev.com/ghpvc/?username=hamzza07x&style=for-the-badge&color=00D9FF&labelColor=0D1117" alt="Profile Views"/>
-
-</div>
-
----
-
-<div align="center">
-
-## 🛠️ **Tech Arsenal**
-
-### Programming Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,javascript,php" alt="Programming Languages"/>
-</p>
-
-### Frontend Technologies  
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,jquery" alt="Frontend"/>
-</p>
-
-### Development Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=vscode,visualstudio,pycharm,git,github" alt="Tools"/>
-</p>
-
-</div>
+- Full Stack Web Development
+- REST APIs & Backend Logic
+- Responsive Frontend Development
+- AI/ML Learning & Projects
+- Data Structures & Algorithms
+- Software Architecture & Problem Solving
 
 ---
 
-<div align="center">
+## Tech Stack
 
-## 🚀 **Areas of Expertise**
+### Languages
+C • C++ • Python • JavaScript • PHP
 
-<table>
-<tr>
-  <td align="center" width="200">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original.svg" width="50"/>
-    <br><strong>Game Development</strong>
-    <br><sub>Creating immersive experiences</sub>
-  </td>
-  <td align="center" width="200">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50"/>
-    <br><strong>Web Development</strong>
-    <br><sub>Building modern web solutions</sub>
-  </td>
-  <td align="center" width="200">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50"/>
-    <br><strong>Data Analysis</strong>
-    <br><sub>Extracting insights from data</sub>
-  </td>
-</tr>
-</table>
+### Frontend
+HTML • CSS • Bootstrap • jQuery
 
-</div>
+### Backend & Tools
+Git • GitHub • VS Code • PyCharm • Visual Studio
+
+### Currently Learning
+React • Node.js • AI/ML • Data Science • Scalable Backend Systems
 
 ---
 
-<div align="center">
+## Featured Projects
 
-## 🌐 **Connect & Collaborate**
+### Google Drive File System Simulation
+A console-based file management system built using advanced data structures including trees, graphs, queues, stacks, and hash tables.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-hamza-b254a0292)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/hafmtmzi?mibextid=zbwkwl)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://www.leetcode.com/hamzza07x)
-[![Fiverr](https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white)](https://www.fiverr.com/ham_zza)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/9h0st41)
-
-</div>
-
----
-
-<div align="center">
-
-## 🎯 **Portfolio Showcase**
-
-<a href="https://hamzza07x.github.io/hamzza07x_portfollio/" target="_blank">
-<img src="https://img.shields.io/badge/🌟_Explore_My_Work-00D9FF?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0D1117"/>
-</a>
-
-</div>
+**Highlights**
+- File and folder management
+- Search and navigation system
+- Data structure implementation
+- System-level logic simulation
 
 ---
 
-<div align="center">
+### Advanced Contacts Book (C++)
+Object-oriented contact management system built with inheritance, polymorphism, templates, and file handling.
 
-### 💭 *"Code is like humor. When you have to explain it, it's bad."* – Cory House
+**Highlights**
+- Advanced searching and sorting
+- Contact groups
+- Search history
+- Clean OOP architecture
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
+---
 
-**⭐ From [hamzza07x](https://github.com/hamzza07x) with ❤️**
+### Netflix Clone
+Responsive Netflix-inspired frontend project focused on UI structure, layout design, and user experience.
 
-</div>
+**Highlights**
+- Responsive design
+- Modern UI
+- Clean component structure
+
+---
+
+## Current Focus
+
+Right now, I’m focused on:
+- Building full stack web applications
+- Improving backend architecture skills
+- Learning AI/ML engineering
+- Creating portfolio-quality projects
+- Working on real-world freelance-ready solutions
+
+---
+
+## Looking For
+
+- Remote internships
+- Freelance opportunities
+- Open source collaboration
+- Full stack development projects
+
+---
+
+## Connect With Me
+
+- LinkedIn: www.linkedin.com/in/muhammad-hamza-b254a0292
+- LeetCode: www.leetcode.com/hamzza07x
+- Fiverr: www.fiverr.com/ham_zza
+- Portfolio: https://hamzza07x.github.io/hamzza07x_portfollio/
+
+---
+
+## A Few Things About Me
+
+- Self-taught programmer
+- Strong interest in scalable software systems
+- Passionate about clean code and practical problem solving
+- Always learning and building
+
+---
+
+⭐ If you like my work, feel free to connect or collaborate.
