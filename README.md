@@ -14,7 +14,7 @@
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=hamzza07x&style=for-the-badge&color=58A6FF&labelColor=0D1117"/>
+<img src="https://komarev.com/ghpvc/?username=hamzza07x&style=for-the-badge&color=58A6FF&labelColor=0D1117" />
 
 </div>
 
@@ -82,7 +82,7 @@ class MuhammadHamza {
 
 <br/>
 
-<img src="https://skillicons.dev/icons?i=c,cpp,python,javascript,php,html,css,bootstrap,git,github,vscode,visualstudio,pycharm,react,nodejs,mysql&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=c,cpp,python,javascript,php,html,css,bootstrap,git,github,vscode,visualstudio,pycharm&theme=dark"/>
 
 </div>
 
@@ -100,10 +100,10 @@ class MuhammadHamza {
 
 Advanced console-based file system simulation using:
 
-🌲 Trees  
-🗂️ Hash Tables  
-📊 Graphs  
-📌 Queues & Stacks  
+🌲 Trees
+🗂️ Hash Tables
+📊 Graphs
+📌 Queues & Stacks
 
 Built with strong DSA concepts and system-level logic.
 
@@ -115,10 +115,10 @@ Built with strong DSA concepts and system-level logic.
 
 Object-oriented contact manager built in C++.
 
-✔️ Inheritance  
-✔️ Polymorphism  
-✔️ Templates  
-✔️ File Handling  
+✔️ Inheritance
+✔️ Polymorphism
+✔️ Templates
+✔️ File Handling
 
 Focused on clean architecture and reusable design.
 
@@ -130,10 +130,10 @@ Focused on clean architecture and reusable design.
 
 Modern responsive frontend inspired by Netflix UI.
 
-✨ Responsive Design  
-✨ Clean Layouts  
-✨ UI Components  
-✨ Better UX Structure  
+✨ Responsive Design
+✨ Clean Layouts
+✨ UI Components
+✨ Better UX Structure
 
 Focused on frontend development and design consistency.
 
@@ -193,12 +193,6 @@ Creating real-world portfolio and client-focused solutions.
 
 <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=hamzza07x&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&hide_border=true"/>
 
-<br/><br/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=hamzza07x&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
-
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=hamzza07x&theme=tokyonight&hide_border=true&background=0D1117"/>
-
 </div>
 
 ---
@@ -240,16 +234,6 @@ Creating real-world portfolio and client-focused solutions.
 <br/><br/>
 
 💡 Open to remote jobs, freelance work, and collaboration opportunities.
-
-</div>
-
----
-
-<div align="center">
-
-# 💭 Developer Mindset
-
-> “I enjoy building software that is clean, practical, scalable, and solves real problems.”
 
 </div>
 
