@@ -1,4 +1,3 @@
-````md
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:0F2027,50:203A43,100:2C5364&text=Muhammad%20Hamza&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20•%20AI/ML%20Learner%20•%20Problem%20Solver&descAlignY=58&descSize=18"/>
@@ -15,17 +14,13 @@
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=hamzza07x&style=for-the-badge&color=58A6FF&labelColor=0D1117" />
+<img src="https://komarev.com/ghpvc/?username=hamzza07x&style=for-the-badge&color=58A6FF&labelColor=0D1117"/>
 
 </div>
 
 ---
 
-<div align="center">
-
 <img align="right" alt="Coding" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
-
-</div>
 
 ```javascript
 class MuhammadHamza {
@@ -75,7 +70,7 @@ class MuhammadHamza {
     };
   }
 }
-````
+```
 
 <br clear="both"/>
 
@@ -87,7 +82,7 @@ class MuhammadHamza {
 
 <br/>
 
-<img src="https://skillicons.dev/icons?i=c,cpp,python,javascript,php,html,css,bootstrap,git,github,vscode,visualstudio,pycharm&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=c,cpp,python,javascript,php,html,css,bootstrap,git,github,vscode,visualstudio,pycharm,react,nodejs,mysql&theme=dark"/>
 
 </div>
 
@@ -105,10 +100,10 @@ class MuhammadHamza {
 
 Advanced console-based file system simulation using:
 
-🌲 Trees
-🗂️ Hash Tables
-📊 Graphs
-📌 Queues & Stacks
+🌲 Trees  
+🗂️ Hash Tables  
+📊 Graphs  
+📌 Queues & Stacks  
 
 Built with strong DSA concepts and system-level logic.
 
@@ -120,10 +115,10 @@ Built with strong DSA concepts and system-level logic.
 
 Object-oriented contact manager built in C++.
 
-✔️ Inheritance
-✔️ Polymorphism
-✔️ Templates
-✔️ File Handling
+✔️ Inheritance  
+✔️ Polymorphism  
+✔️ Templates  
+✔️ File Handling  
 
 Focused on clean architecture and reusable design.
 
@@ -135,10 +130,10 @@ Focused on clean architecture and reusable design.
 
 Modern responsive frontend inspired by Netflix UI.
 
-✨ Responsive Design
-✨ Clean Layouts
-✨ UI Components
-✨ Better UX Structure
+✨ Responsive Design  
+✨ Clean Layouts  
+✨ UI Components  
+✨ Better UX Structure  
 
 Focused on frontend development and design consistency.
 
@@ -198,6 +193,12 @@ Creating real-world portfolio and client-focused solutions.
 
 <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=hamzza07x&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&hide_border=true"/>
 
+<br/><br/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=hamzza07x&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=hamzza07x&theme=tokyonight&hide_border=true&background=0D1117"/>
+
 </div>
 
 ---
@@ -246,9 +247,18 @@ Creating real-world portfolio and client-focused solutions.
 
 <div align="center">
 
+# 💭 Developer Mindset
+
+> “I enjoy building software that is clean, practical, scalable, and solves real problems.”
+
+</div>
+
+---
+
+<div align="center">
+
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0F2027,50:203A43,100:2C5364"/>
 
 ### ⭐ From [hamzza07x](https://github.com/hamzza07x) with passion for building impactful software
 
 </div>
-```
