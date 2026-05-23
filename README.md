@@ -121,8 +121,6 @@ class MuhammadHamza {
 <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=hamzza07x&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&hide_border=true"/>
 
 </div>
----
----
 
 <div align="center">
 
