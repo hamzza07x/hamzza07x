@@ -121,49 +121,6 @@ class MuhammadHamza {
 <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=hamzza07x&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&hide_border=true"/>
 
 </div>
-
----
-
-<div align="center">
-
-# 🧠 Current Focus
-
-<table>
-<tr>
-<td align="center" width="220">
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="55"/>
-
-### Full Stack Development
-
-Building scalable and responsive web applications.
-
-</td>
-
-<td align="center" width="220">
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="55"/>
-
-### AI / ML Learning
-
-Learning machine learning fundamentals and AI workflows.
-
-</td>
-
-<td align="center" width="220">
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="55"/>
-
-### Freelance Projects
-
-Creating real-world portfolio and client-focused solutions.
-
-</td>
-</tr>
-</table>
-
-</div>
-
 ---
 
 <div align="center">
