@@ -164,7 +164,7 @@ class MuhammadHamza {
 
 # 🎯 Portfolio
 
-<a href="https://hamzza07x.github.io/hamzza07x_portfollio/" target="_blank">
+<a href="https://hamzza07x-portfollio.vercel.app/" target="_blank">
 <img src="https://img.shields.io/badge/Explore%20My%20Work-58A6FF?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0D1117"/>
 </a>
 
