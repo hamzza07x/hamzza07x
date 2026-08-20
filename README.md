@@ -92,36 +92,6 @@ class MuhammadHamza {
 
 </div>
 
----
-
-<div align="center">
-
-# 🏆 GitHub Trophies
-
-<img width="100%" src="https://github-profile-trophy.vercel.app/?username=hamzza07x&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7"/>
-
-</div>
-
----
-
-<div align="center">
-
-# 📊 GitHub Stats
-
-<br/>
-
-<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=hamzza07x&theme=tokyonight"/>
-<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hamzza07x&theme=tokyonight"/>
-<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=hamzza07x&theme=tokyonight&utcOffset=5"/>
-
-<br/><br/>
-
-<img width="49%" src="https://streak-stats.demolab.com/?user=hamzza07x&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF"/>
-
-<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=hamzza07x&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&hide_border=true"/>
-
-</div>
-
 <div align="center">
 
 # 💬 Dev Quote
