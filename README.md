@@ -121,10 +121,6 @@ class MuhammadHamza {
     <td align="left">Keras · scikit-learn · feedforward ANNs (learning)</td>
   </tr>
   <tr>
-    <td align="left"><b>🔌 Embedded</b></td>
-    <td align="left">Arduino · ESP32 · PCB design</td>
-  </tr>
-  <tr>
     <td align="left"><b>🛠️ Tools</b></td>
     <td align="left">Git · GitHub · VS Code · PyCharm · Visual Studio · Vercel</td>
   </tr>
